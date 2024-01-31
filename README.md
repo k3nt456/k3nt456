@@ -87,3 +87,11 @@
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=for-the-badge"></a>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/k3nt456">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=k3nt456&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=k3nt456&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
