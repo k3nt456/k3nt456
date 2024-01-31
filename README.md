@@ -77,10 +77,10 @@
   &emsp;
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge"></a>
   &emsp;
-  <a href="#"><img alt="Mailtrap" src="https://img.shields.io/badge/Mailtrap-22D172?logo=mailtrap&logoColor=fff&style=for-the-badge"></a>
-  &emsp;
 </p>
 <p>
+  &emsp;
+  <a href="#"><img alt="Mailtrap" src="https://img.shields.io/badge/Mailtrap-22D172?logo=mailtrap&logoColor=fff&style=for-the-badge"></a>
   &emsp;
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge"></a>
   &emsp;
