@@ -1,7 +1,4 @@
 <h1 align="center">Hi, my name is Kent 🧤</h1>
-<br clear="both">
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/17b4Y01/Screenshot-1.png" alt="Screenshot-1" border="0" height="175px"/></a>
-<br clear="both">
 <p>
   I'm a passionate coder on a constant quest for knowledge and exciting challenges. My journey in the programming world is an unfolding story, where every line of code written is a step towards mastery.
 </p>
